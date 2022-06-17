@@ -1,0 +1,56 @@
+mongodb+srv://jhondel952:caranay357@cluster0.8vcfqz9.mongodb.net/?retryWrites=true&w=majority
+
+
+###################### dependencies ##################
+
+install mondo db
+    npm i mongoose
+
+install axios for data fetching
+    npm i axios
+
+install reduc toolkit
+    redux -------------------- https://www.npmjs.com/package/redux
+    react redux doc ---------- https://react-redux.js.org/introduction/getting-started
+    reducjs toolkit ---------- https://redux-toolkit.js.org/introduction/getting-started
+
+    npm install @reduxjs/toolkit
+    npm i redux react-redux
+
+paypal integration
+    https://www.npmjs.com/package/@paypal/react-paypal-js
+
+    https://paypal.github.io/react-paypal-js/?path=/story/example-paypalbuttons--default
+
+    npm i @paypal/react-paypal-js
+
+    developer paypal account
+    https://developer.paypal.com/developer/accounts?event=createSuccess
+
+
+
+install cookie
+    https://www.npmjs.com/package/cookie
+    $ npm i cookie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###################### How to ##################
+
+setup mongoose
+        follow documentation from 
+            https://github.com/vercel/next.js/tree/canary/examples/with-mongodb-mongoose
+            https://github.com/vercel/next.js/blob/canary/examples/with-mongodb-mongoose/lib/dbConnect.js
+            
+>>>>>>>>>>>
