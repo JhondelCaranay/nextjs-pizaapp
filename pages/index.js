@@ -45,7 +45,7 @@ export async function getServerSideProps(context) {
 		admin = true;
 	}
 
-	const res = await axios.get("http://localhost:3000/api/products");
+	const res = await axios.get(process.env.BASE_URL + "/api/products");
 
 	// console.log(response);
 	return {
